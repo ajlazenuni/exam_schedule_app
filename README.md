@@ -1,16 +1,25 @@
-# exam_schedule_app
+# Exam Schedule App - 223199
 
-A new Flutter project.
+Flutter application for viewing exam schedules.
 
-## Getting Started
+## Features
+- List of 12+ exams sorted chronologically
+- Different colors for past and future exams
+- Detailed view showing time remaining until exam
+- Exam information includes: subject, date, time, and rooms
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
+![Home Screen](screenshots/scr1-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Exam List
+![Exam List](screenshots/scr2-1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Exam Detail
+![Exam Detail](screenshots/scr3-1.png)
+
+## How to run
+```bash
+flutter run -d chrome
+```
