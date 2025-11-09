@@ -11,13 +11,13 @@ Flutter application for viewing exam schedules.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/scr1-1.png)
+![Home Screen](screenshots/scr1.png)
 
 ### Exam List
-![Exam List](screenshots/scr2-1.png)
+![Exam List](screenshots/scr2.png)
 
 ### Exam Detail
-![Exam Detail](screenshots/scr3-1.png)
+![Exam Detail](screenshots/scr3.png)
 
 ## How to run
 ```bash
